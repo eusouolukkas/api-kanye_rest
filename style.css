@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    border-radius: 50px;
+    border-color: gray;
+    margin-left: 570px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: blueviolet;
+    margin-top: 300px;
+}
